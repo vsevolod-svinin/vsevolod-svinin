@@ -10,6 +10,7 @@ Second-year Smart Automation student at FH CAMPUS 02, Graz, Austria.
 
 ### Projects
 - Digispark / ATtiny85 PCB Design
+- [Potentiometer-Controlled Servo](https://github.com/vsevolod-svinin/potentiometer-controlled-servo)
 
 ### Technical Skills
 Python · C++ · Arduino · KiCad · DewesoftX · SolidWorks
