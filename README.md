@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi, I'm Vsevolod 👋
+
+Second-year Smart Automation student at FH CAMPUS 02, Graz, Austria.
+
+### Interests
+- Electronics and Embedded Systems
+- Microcontrollers and PCB Design
+- Test & Measurement
+- Python and C++
+
+### Projects
+- Digispark / ATtiny85 PCB Design
+
+### Technical Skills
+Python · C++ · Arduino · KiCad · DewesoftX · SolidWorks
 
 <!--
 **vsevolod-svinin/vsevolod-svinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
