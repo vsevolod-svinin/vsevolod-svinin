@@ -9,8 +9,12 @@ Second-year Smart Automation student at FH CAMPUS 02, Graz, Austria.
 - Python and C++
 
 ### Projects
+Electronics & Embedded Systems
 - [Digispark / ATtiny85 PCB Design](https://github.com/vsevolod-svinin/digispark-usb-development-board)
 - [Potentiometer-Controlled Servo](https://github.com/vsevolod-svinin/potentiometer-controlled-servo)
+
+Software Development
+- [WorkSpot](https://github.com/vsevolod-svinin/workspot-ios-app)
 
 ### Technical Skills
 Python · C++ · Arduino · KiCad · DewesoftX · SolidWorks
